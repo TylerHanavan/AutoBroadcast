@@ -1,0 +1,4 @@
+name: AutoBroadcast
+version: 0.1
+main: com.TylerHanavan.AutoBroadcast.AutoBroadcast
+commands:
