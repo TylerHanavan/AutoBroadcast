@@ -47,3 +47,4 @@ Temporary Items
 .apdisk
 bin/com/TylerHanavan/AutoBroadcast/AutoBroadcast.class
 bin/com/TylerHanavan/AutoBroadcast/Broadcaster.class
+bin/com/TylerHanavan/AutoBroadcast/BroadcastCommand.class

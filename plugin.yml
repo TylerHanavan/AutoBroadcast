@@ -2,3 +2,6 @@ name: AutoBroadcast
 version: 0.1
 main: com.TylerHanavan.AutoBroadcast.AutoBroadcast
 commands:
+    broadcast:
+        description: Issue a manual broadcast.
+        usage: /command

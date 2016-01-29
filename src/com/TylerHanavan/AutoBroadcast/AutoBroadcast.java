@@ -80,6 +80,8 @@ public class AutoBroadcast extends JavaPlugin {
 		
 		this.getServer().getScheduler().scheduleSyncRepeatingTask(this, new Broadcaster(this), this.getInterval() * 20, this.getInterval() * 20);
 		
+		this.getCommand("broadcast").setExecutor(new BroadcastCommand(this));
+		
 	}
 	
 	@Override
